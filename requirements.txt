@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+swisseph
+kerykeion
+cairosvg
+pillow
+pytz
+python-dotenv
